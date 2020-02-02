@@ -1,5 +1,7 @@
 # JavaJump
 
+Final project for Intro to Object Oriented Programming at UC Merced
+
 ### Introduction
 Java Jump is an OpenGL based endless runner video game starring the titular character Java, a black and white Rat Terrier, jumping over bones of various sizes to avoid colliding with them and as this would prompt a game over. While the dog the player character is based on would do everything in her power to retrieve every bone thrown her way this fictionalized version attempts to dodge them to earn a high score. Java Jump is heavily inspired by the Google Chrome Dinosaur endless runner game and as such the team tried to emulate the different facets of the original while making some changes the group personally felt would make the game more enjoyable and while adding our own charm to the project.
 
